@@ -1,17 +1,17 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title: "Dan丁"
+description: "这里是Dan丁，一个专注图文的网站"
+baseurl: ""
+url: "https://danding888.github.io/"
 
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+# google_analytics: UA—XXXXXXXX-X
 
 # Author
-author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+# author:
+#   name:         但丁
+#   url:          
+#   email:        shaoqinghu044@gmail.com
 
 # Build settings
 markdown:       kramdown
